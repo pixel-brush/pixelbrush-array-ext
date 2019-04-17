@@ -1,0 +1,18 @@
+{
+  "name": "@pixelbrush/ts-array-ext",
+  "version": "0.0.1",
+  "description": "A set of typescript array extensions",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rimraf ./dist && mkdir dist && cp ./lib/index.d.ts ./dist && parcel build ./lib/index.ts"
+  },
+  "author": "danny@pixelbru.sh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.3",
+    "rimraf": "^2.6.3",
+    "typescript": "^3.4.3"
+  }
+}
