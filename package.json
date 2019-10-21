@@ -1,6 +1,6 @@
 {
     "name": "pixelbrush-ts-array-ext",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "A set of typescript array extensions",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
@@ -11,8 +11,8 @@
     "author": "danny@pixelbru.sh",
     "license": "ISC",
     "devDependencies": {
-        "parcel": "^1.12.3",
-        "rimraf": "^2.6.3",
-        "typescript": "^3.4.3"
+        "parcel": "^1.12.4",
+        "rimraf": "^3.0.0",
+        "typescript": "^3.6.4"
     }
 }

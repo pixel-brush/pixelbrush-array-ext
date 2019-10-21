@@ -1,0 +1,17 @@
+# What is this?
+This is just a set of (Java|Type)Script extensions that I've found useful. Currently this package only publishes the array portion.
+
+# What's included?
+Here are some of the functions from the TypeScript definition
+
+* first
+* last
+* tail
+* coalesce
+* distinct
+* firstOrDefault
+* toHashMap
+* diff
+* diffLeft
+* diffRight
+
