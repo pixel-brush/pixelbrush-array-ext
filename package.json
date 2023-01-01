@@ -11,7 +11,7 @@
     "author": "danny@pixelbru.sh",
     "license": "ISC",
     "devDependencies": {
-        "parcel": "^1.12.4",
+        "parcel": "^2.8.2",
         "rimraf": "^3.0.0",
         "typescript": "^3.6.4"
     }
